@@ -9,5 +9,8 @@
         <module name="AutomationTask" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WebAutomationBDD" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

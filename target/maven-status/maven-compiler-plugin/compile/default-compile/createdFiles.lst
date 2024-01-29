@@ -1,8 +1,8 @@
-com\jumia\tests\base\BaseClass.class
-com\jumia\tests\pages\LoginPage.class
-com\jumia\tests\utility\ExcelFileManger.class
-com\jumia\tests\pages\CartPage.class
-com\jumia\tests\utility\DataProviders.class
-com\jumia\tests\pages\HomePage.class
-com\jumia\tests\actions\Action.class
-com\jumia\tests\pages\ShirtsPage.class
+utility\JsonManager.class
+base\BaseClass.class
+utility\ExcelFileManger.class
+com\orange\PimPage.class
+com\orange\HomePage.class
+com\orange\LoginPage.class
+utility\DataProviders.class
+actions\Action.class
